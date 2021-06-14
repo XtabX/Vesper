@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Tolu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Tolu\\.nuget\\packages"
+    ]
+  }
+}
