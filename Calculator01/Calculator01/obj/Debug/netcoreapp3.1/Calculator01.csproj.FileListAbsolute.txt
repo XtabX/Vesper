@@ -1,0 +1,13 @@
+C:\Users\Tolu\source\repos\Calculator01\Calculator01\bin\Debug\netcoreapp3.1\Calculator01.exe
+C:\Users\Tolu\source\repos\Calculator01\Calculator01\bin\Debug\netcoreapp3.1\Calculator01.deps.json
+C:\Users\Tolu\source\repos\Calculator01\Calculator01\bin\Debug\netcoreapp3.1\Calculator01.runtimeconfig.json
+C:\Users\Tolu\source\repos\Calculator01\Calculator01\bin\Debug\netcoreapp3.1\Calculator01.runtimeconfig.dev.json
+C:\Users\Tolu\source\repos\Calculator01\Calculator01\bin\Debug\netcoreapp3.1\Calculator01.dll
+C:\Users\Tolu\source\repos\Calculator01\Calculator01\bin\Debug\netcoreapp3.1\Calculator01.pdb
+C:\Users\Tolu\source\repos\Calculator01\Calculator01\obj\Debug\netcoreapp3.1\Calculator01.csproj.AssemblyReference.cache
+C:\Users\Tolu\source\repos\Calculator01\Calculator01\obj\Debug\netcoreapp3.1\Calculator01.AssemblyInfoInputs.cache
+C:\Users\Tolu\source\repos\Calculator01\Calculator01\obj\Debug\netcoreapp3.1\Calculator01.AssemblyInfo.cs
+C:\Users\Tolu\source\repos\Calculator01\Calculator01\obj\Debug\netcoreapp3.1\Calculator01.csproj.CoreCompileInputs.cache
+C:\Users\Tolu\source\repos\Calculator01\Calculator01\obj\Debug\netcoreapp3.1\Calculator01.dll
+C:\Users\Tolu\source\repos\Calculator01\Calculator01\obj\Debug\netcoreapp3.1\Calculator01.pdb
+C:\Users\Tolu\source\repos\Calculator01\Calculator01\obj\Debug\netcoreapp3.1\Calculator01.genruntimeconfig.cache
