@@ -1,0 +1,13 @@
+C:\Users\Tolu\source\repos\Hangman\bin\Debug\netcoreapp3.1\Hangman.exe
+C:\Users\Tolu\source\repos\Hangman\bin\Debug\netcoreapp3.1\Hangman.deps.json
+C:\Users\Tolu\source\repos\Hangman\bin\Debug\netcoreapp3.1\Hangman.runtimeconfig.json
+C:\Users\Tolu\source\repos\Hangman\bin\Debug\netcoreapp3.1\Hangman.runtimeconfig.dev.json
+C:\Users\Tolu\source\repos\Hangman\bin\Debug\netcoreapp3.1\Hangman.dll
+C:\Users\Tolu\source\repos\Hangman\bin\Debug\netcoreapp3.1\Hangman.pdb
+C:\Users\Tolu\source\repos\Hangman\obj\Debug\netcoreapp3.1\Hangman.csproj.AssemblyReference.cache
+C:\Users\Tolu\source\repos\Hangman\obj\Debug\netcoreapp3.1\Hangman.AssemblyInfoInputs.cache
+C:\Users\Tolu\source\repos\Hangman\obj\Debug\netcoreapp3.1\Hangman.AssemblyInfo.cs
+C:\Users\Tolu\source\repos\Hangman\obj\Debug\netcoreapp3.1\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\Tolu\source\repos\Hangman\obj\Debug\netcoreapp3.1\Hangman.dll
+C:\Users\Tolu\source\repos\Hangman\obj\Debug\netcoreapp3.1\Hangman.pdb
+C:\Users\Tolu\source\repos\Hangman\obj\Debug\netcoreapp3.1\Hangman.genruntimeconfig.cache
